@@ -1,0 +1,14 @@
+#ifndef	_GRAPHIC_
+#define	_GRAPHIC_
+
+enum{
+	GRP_INIT = 0,
+	GRP_PRIMARY = GRP_INIT,
+	GRP_FILL,
+	GRP_FONT01,
+	GRP_FONT02,
+	GRP_FONT03,
+	GRP_FONT04
+};
+
+#endif /* _GRAPHIC_ */

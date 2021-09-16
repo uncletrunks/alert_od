@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Alert
+Comment=Procedural Shmup from Jumpei Isshiki
+Exec=alert
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=icon
+Categories=games;
